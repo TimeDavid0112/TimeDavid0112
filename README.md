@@ -8,9 +8,9 @@
 ![Anime counter](https://koibito.qweme.dev/@TimeDavid0112?length=6&scale=1) 
 
 - Discord: developer_html
-- [![Discord channel](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JNqKt8jSWx)
+- [![Discord channel](https://img.shields.io/badge/Discord%20channel-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JNqKt8jSWx)
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TimeDavid0112)
-- [![Telegram channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Super_Hacker_YT)
+- [![Telegram channel](https://img.shields.io/badge/Telegram%20channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Super_Hacker_YT)
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TimeDavid0112)
 
 <!--
