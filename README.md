@@ -10,7 +10,7 @@
 - **Discord:** `developer_html`
 - [![Discord channel](https://img.shields.io/badge/Discord%20channel-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JNqKt8jSWx)
 - [![Telegram channel](https://img.shields.io/badge/Telegram%20channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Super_Hacker_YT)
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TimeDavid0112)
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TimeDavid)
 
 <!--
 Доступные параметры
