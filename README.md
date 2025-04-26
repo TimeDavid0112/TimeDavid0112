@@ -5,8 +5,6 @@
  (__) (__)\_)(_/(____)(____/\_/\_/ \__/ (__)(____/ \__/  (__) (__)(____)
 ```
 
-![Anime counter](https://koibito.qweme.dev/@TimeDavid0112?theme=chainsaw-man&scale=1.5&length=4) 
-
 - **Discord:** `developer_html`
 - [![Discord channel](https://img.shields.io/badge/Discord%20channel-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JNqKt8jSWx)
 - [![Telegram channel](https://img.shields.io/badge/Telegram%20channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Super_Hacker_YT)
