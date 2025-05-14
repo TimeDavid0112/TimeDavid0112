@@ -10,7 +10,7 @@
 - [![Telegram channel](https://img.shields.io/badge/Telegram%20channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Super_Hacker_YT)
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TimeDavid)
 <p align="center">
-<img src="https://count.getloli.com/get/@0xd5f?theme=rule34"/>
+<img src="https://count.getloli.com/get/@TimeDavid0112?theme=rule34"/>
 </p>
 
 <!--
